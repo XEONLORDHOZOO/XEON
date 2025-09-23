@@ -37,7 +37,7 @@ class WhatsAppUnlimitedBot {
         this.loadingStates = new Map();
         
         this.config = {
-            ownerNumber: '628xxxxxxxxxx',
+            ownerNumber: '628999859595',
             sessionFolder: 'session',
             botName: '🤖 LORDHOZOO UNLIMITED BOT v4.0',
             usePairingCode: false,
