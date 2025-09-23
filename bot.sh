@@ -39,4 +39,4 @@ clear
 sleep 0.25
 $e " SUDAH KE INSTALL BRO SILAKAN ANDA PILIH QR SCAN ATAU PARING CODE "
 clear
-node index.js
+node BOT.js
